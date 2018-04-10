@@ -1,2 +1,2 @@
 # gdp
-go design partterns.
+go design patterns.
